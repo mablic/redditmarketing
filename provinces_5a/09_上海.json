@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "province": "上海",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p09-a01",
+      "name_zh": "西沙明珠湖景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p09-a02",
+      "name_zh": "中国共产党一大•二大•四大纪念馆景区",
+      "rating_year": "2021",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p09-a03",
+      "name_zh": "上海科技馆",
+      "rating_year": "2010",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p09-a04",
+      "name_zh": "上海野生动物园",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p09-a05",
+      "name_zh": "东方明珠广播电视塔",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "上海": {
+      "city_en": "Shanghai",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:27:52.499660+00:00",
+      "last_error": "",
+      "output": "5a/上海/上海_36499c89"
+    }
+  }
+}

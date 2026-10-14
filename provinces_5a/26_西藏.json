@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "province": "西藏",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p26-a01",
+      "name_zh": "林芝市雅鲁藏布大峡谷景区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p26-a02",
+      "name_zh": "日喀则市扎什伦布寺景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p26-a03",
+      "name_zh": "林芝市巴松措景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p26-a04",
+      "name_zh": "拉萨市大昭寺景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p26-a05",
+      "name_zh": "拉萨市布达拉宫景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "林芝市": {
+      "city_en": "Nyingchi",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:34:12.584311+00:00",
+      "last_error": "",
+      "output": "5a/西藏/林芝市_7c6df445"
+    },
+    "日喀则市": {
+      "city_en": "Shigatse",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:34:24.394621+00:00",
+      "last_error": "",
+      "output": "5a/西藏/日喀则市_428def1c"
+    },
+    "拉萨市": {
+      "city_en": "Lhasa",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:35:17.577261+00:00",
+      "last_error": "",
+      "output": "5a/西藏/拉萨市_1ed8b8bf"
+    }
+  }
+}

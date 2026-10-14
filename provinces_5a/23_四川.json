@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "province": "四川",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p23-a01",
+      "name_zh": "成都市天台山景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a02",
+      "name_zh": "阿坝州四姑娘山景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a03",
+      "name_zh": "成都市安仁古镇景区",
+      "rating_year": "2022",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a04",
+      "name_zh": "甘孜州稻城亚丁旅游景区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a05",
+      "name_zh": "巴中市光雾山旅游景区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a06",
+      "name_zh": "雅安市碧峰峡旅游景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a07",
+      "name_zh": "甘孜州海螺沟景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a08",
+      "name_zh": "南充市朱德故里景区",
+      "rating_year": "2016",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a09",
+      "name_zh": "广元市剑门蜀道剑门关旅游景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a10",
+      "name_zh": "广安市邓小平故里旅游区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a11",
+      "name_zh": "南充市阆中古城旅游景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a12",
+      "name_zh": "阿坝州汶川特别旅游区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a13",
+      "name_zh": "绵阳市羌城旅游区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a14",
+      "name_zh": "阿坝州黄龙风景名胜区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a15",
+      "name_zh": "乐山市乐山大佛景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a16",
+      "name_zh": "阿坝州九寨沟景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a17",
+      "name_zh": "乐山市峨眉山景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p23-a18",
+      "name_zh": "成都市青城山－都江堰旅游景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "成都市": {
+      "city_en": "Chengdu",
+      "status": "draft_partial_images",
+      "run_time": "2026-10-14T10:48:32.854361+00:00",
+      "last_error": "",
+      "output": "5a/四川/成都市_d8ed7477"
+    },
+    "阿坝州": {
+      "city_en": "Ngawa Tibetan and Qiang Autonomous Prefecture",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:53:41.272347+00:00",
+      "last_error": "",
+      "output": "5a/四川/阿坝州_2734e3e1"
+    },
+    "甘孜州": {
+      "city_en": "Garzê Tibetan Autonomous Prefecture",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "巴中市": {
+      "city_en": "Bazhong",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T10:59:31.911310+00:00",
+      "last_error": "",
+      "output": "5a/四川/巴中市_992ded00"
+    },
+    "雅安市": {
+      "city_en": "Ya'an",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:59:41.661237+00:00",
+      "last_error": "",
+      "output": "5a/四川/雅安市_c2715d65"
+    },
+    "南充市": {
+      "city_en": "Nanchong",
+      "status": "draft_partial_images",
+      "run_time": "2026-10-14T11:02:07.171429+00:00",
+      "last_error": "",
+      "output": "5a/四川/南充市_526b1c3e"
+    },
+    "广元市": {
+      "city_en": "Guangyuan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:03:03.497053+00:00",
+      "last_error": "",
+      "output": "5a/四川/广元市_22d72681"
+    },
+    "广安市": {
+      "city_en": "Guang'an",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "绵阳市": {
+      "status": "failed",
+      "last_error": "Extra data: line 1 column 111 (char 110)"
+    },
+    "乐山市": {
+      "city_en": "Leshan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:06:14.113348+00:00",
+      "last_error": "",
+      "output": "5a/四川/乐山市_05f48e1e"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "province": "重庆",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p22-a01",
+      "name_zh": "武陵山大裂谷景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p22-a02",
+      "name_zh": "白帝城•瞿塘峡景区",
+      "rating_year": "2022",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p22-a03",
+      "name_zh": "濯水景区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p22-a04",
+      "name_zh": "阿依河景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p22-a05",
+      "name_zh": "龙缸景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p22-a06",
+      "name_zh": "四面山景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p22-a07",
+      "name_zh": "金佛山景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p22-a08",
+      "name_zh": "万盛黑山谷-龙鳞石海风景区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p22-a09",
+      "name_zh": "桃花源旅游景区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p22-a10",
+      "name_zh": "喀斯特旅游区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p22-a11",
+      "name_zh": "小三峡－小小三峡旅游区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p22-a12",
+      "name_zh": "大足石刻景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "重庆": {
+      "city_en": "Chongqing",
+      "status": "draft_partial_images",
+      "run_time": "2026-10-14T10:44:48.151890+00:00",
+      "last_error": "",
+      "output": "5a/重庆/重庆_3e5fc6f4"
+    }
+  }
+}

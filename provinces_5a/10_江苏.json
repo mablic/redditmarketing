@@ -1,0 +1,310 @@
+{
+  "schema_version": 1,
+  "province": "江苏",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p10-a01",
+      "name_zh": "连云港市连岛景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a02",
+      "name_zh": "宿迁市洪泽湖湿地景区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a03",
+      "name_zh": "无锡市惠山古镇景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a04",
+      "name_zh": "常州市春秋淹城旅游区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a05",
+      "name_zh": "连云港市花果山景区",
+      "rating_year": "2016",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a06",
+      "name_zh": "徐州市云龙湖景区",
+      "rating_year": "2016",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a07",
+      "name_zh": "盐城市中华麋鹿园景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a08",
+      "name_zh": "淮安市周恩来故里景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a09",
+      "name_zh": "镇江市茅山景区",
+      "rating_year": "2014",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a10",
+      "name_zh": "常州市天目湖景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a11",
+      "name_zh": "苏州市沙家浜－虞山尚湖旅游区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a12",
+      "name_zh": "苏州市太湖旅游区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a13",
+      "name_zh": "无锡市鼋头渚旅游风景区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a14",
+      "name_zh": "镇江市金山•焦山•北固山风景区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a15",
+      "name_zh": "苏州市金鸡湖旅游区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a16",
+      "name_zh": "泰州市溱湖旅游景区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a17",
+      "name_zh": "南通市濠河风景区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a18",
+      "name_zh": "扬州市瘦西湖风景区",
+      "rating_year": "2010",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a19",
+      "name_zh": "常州市环球恐龙城休闲旅游区",
+      "rating_year": "2010",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a20",
+      "name_zh": "南京市夫子庙－秦淮风光带",
+      "rating_year": "2010",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a21",
+      "name_zh": "苏州市同里古镇景区",
+      "rating_year": "2010",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a22",
+      "name_zh": "无锡市灵山大佛景区",
+      "rating_year": "2009",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a23",
+      "name_zh": "无锡市中央电视台无锡影视基地三国水浒城景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a24",
+      "name_zh": "南京市钟山风景名胜区－中山陵园风景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a25",
+      "name_zh": "苏州市周庄古镇景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p10-a26",
+      "name_zh": "苏州市苏州园林（拙政园－留园－虎丘）",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "连云港市": {
+      "city_en": "Lianyungang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:31:08.526846+00:00",
+      "last_error": "",
+      "output": "5a/江苏/连云港市_03954983"
+    },
+    "宿迁市": {
+      "city_en": "Suqian",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:33:02.593669+00:00",
+      "last_error": "",
+      "output": "5a/江苏/宿迁市_4cb056d2"
+    },
+    "无锡市": {
+      "city_en": "Wuxi",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:36:36.923751+00:00",
+      "last_error": "",
+      "output": "5a/江苏/无锡市_ef610c49"
+    },
+    "常州市": {
+      "city_en": "Changzhou",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:39:49.158434+00:00",
+      "last_error": "",
+      "output": "5a/江苏/常州市_106db05d"
+    },
+    "徐州市": {
+      "city_en": "Xuzhou",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:41:56.569226+00:00",
+      "last_error": "",
+      "output": "5a/江苏/徐州市_12325a2a"
+    },
+    "盐城市": {
+      "city_en": "Yancheng",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:43:08.308696+00:00",
+      "last_error": "",
+      "output": "5a/江苏/盐城市_d6132236"
+    },
+    "淮安市": {
+      "city_en": "Huai'an",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:45:06.549075+00:00",
+      "last_error": "",
+      "output": "5a/江苏/淮安市_9f174d77"
+    },
+    "镇江市": {
+      "city_en": "Zhenjiang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:47:30.221284+00:00",
+      "last_error": "",
+      "output": "5a/江苏/镇江市_831f43ca"
+    },
+    "苏州市": {
+      "city_en": "Suzhou",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:56:36.202759+00:00",
+      "last_error": "",
+      "output": "5a/江苏/苏州市_fc89ead6"
+    },
+    "泰州市": {
+      "city_en": "Taizhou, Jiangsu",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:57:33.295885+00:00",
+      "last_error": "",
+      "output": "5a/江苏/泰州市_4a80e399"
+    },
+    "南通市": {
+      "city_en": "Nantong",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:58:31.265587+00:00",
+      "last_error": "",
+      "output": "5a/江苏/南通市_e8ea06ab"
+    },
+    "扬州市": {
+      "city_en": "Yangzhou",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:58:42.018616+00:00",
+      "last_error": "",
+      "output": "5a/江苏/扬州市_dc213597"
+    },
+    "南京市": {
+      "city_en": "Nanjing",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:00:12.431375+00:00",
+      "last_error": "",
+      "output": "5a/江苏/南京市_4eed0533"
+    }
+  }
+}

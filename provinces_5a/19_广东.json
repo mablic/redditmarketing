@@ -1,0 +1,208 @@
+{
+  "schema_version": 1,
+  "province": "广东",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p19-a01",
+      "name_zh": "河源市万绿湖风景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p19-a02",
+      "name_zh": "江门市开平市开平碉楼文化旅游区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p19-a03",
+      "name_zh": "肇庆市端州区星湖旅游景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p19-a04",
+      "name_zh": "惠州市惠城区惠州西湖旅游景区",
+      "rating_year": "2018",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p19-a05",
+      "name_zh": "中山市孙中山故里旅游区",
+      "rating_year": "2016",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p19-a06",
+      "name_zh": "阳江市江城区海陵岛大角湾海上丝路旅游区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p19-a07",
+      "name_zh": "佛山市顺德区长鹿旅游休博园",
+      "rating_year": "2014",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p19-a08",
+      "name_zh": "惠州市博罗县罗浮山景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p19-a09",
+      "name_zh": "佛山市南海区西樵山景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p19-a10",
+      "name_zh": "韶关市仁化县丹霞山景区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p19-a11",
+      "name_zh": "清远市连州市地下河旅游景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p19-a12",
+      "name_zh": "深圳市龙华区观澜湖休闲旅游区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p19-a13",
+      "name_zh": "梅州市梅县区雁南飞茶田景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p19-a14",
+      "name_zh": "广州市白云区白云山景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p19-a15",
+      "name_zh": "深圳市南山区华侨城旅游度假区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p19-a16",
+      "name_zh": "广州市番禺区长隆旅游度假区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "河源市": {
+      "city_en": "Heyuan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:13:58.260240+00:00",
+      "last_error": "",
+      "output": "5a/广东/河源市_428ff22c"
+    },
+    "江门市": {
+      "city_en": "Jiangmen",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:15:53.886100+00:00",
+      "last_error": "",
+      "output": "5a/广东/江门市_d20511f0"
+    },
+    "肇庆市": {
+      "city_en": "Zhaoqing",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:16:59.440392+00:00",
+      "last_error": "",
+      "output": "5a/广东/肇庆市_e6ba3621"
+    },
+    "惠州市": {
+      "status": "failed",
+      "last_error": "Local LLM did not finish; city remains unprocessed."
+    },
+    "中山市": {
+      "status": "failed",
+      "last_error": "Local LLM did not finish; city remains unprocessed."
+    },
+    "阳江市": {
+      "city_en": "Yangjiang",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "佛山市": {
+      "city_en": "Foshan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:20:08.398873+00:00",
+      "last_error": "",
+      "output": "5a/广东/佛山市_61fde0b7"
+    },
+    "韶关市": {
+      "city_en": "Shaoguan",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "清远市": {
+      "status": "failed",
+      "last_error": "Local LLM did not finish; city remains unprocessed."
+    },
+    "深圳市": {
+      "city_en": "Shenzhen",
+      "status": "draft_partial_images",
+      "run_time": "2026-10-14T10:22:20.730451+00:00",
+      "last_error": "",
+      "output": "5a/广东/深圳市_462e0cbf"
+    },
+    "梅州市": {
+      "city_en": "Meizhou",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "广州市": {
+      "city_en": "Guangzhou",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:23:35.223973+00:00",
+      "last_error": "",
+      "output": "5a/广东/广州市_559cdb2e"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "province": "黑龙江",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p08-a01",
+      "name_zh": "齐齐哈尔市扎龙生态旅游区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p08-a02",
+      "name_zh": "鸡西市虎头旅游景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p08-a03",
+      "name_zh": "大兴安岭地区北极村旅游景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p08-a04",
+      "name_zh": "伊春市林海奇石景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p08-a05",
+      "name_zh": "牡丹江市镜泊湖景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p08-a06",
+      "name_zh": "黑河市五大连池景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p08-a07",
+      "name_zh": "哈尔滨市太阳岛景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "齐齐哈尔市": {
+      "city_en": "Qiqihar",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T07:16:49.383618+00:00",
+      "last_error": "",
+      "output": "5a/黑龙江/齐齐哈尔市_9c7e0008"
+    },
+    "鸡西市": {
+      "city_en": "Jixi",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:17:56.626547+00:00",
+      "last_error": "",
+      "output": "5a/黑龙江/鸡西市_75b1f92c"
+    },
+    "大兴安岭地区": {
+      "city_en": "Daxing'anling Prefecture",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:18:57.722486+00:00",
+      "last_error": "",
+      "output": "5a/黑龙江/大兴安岭地区_51c0e8bd"
+    },
+    "伊春市": {
+      "city_en": "Yichun, Heilongjiang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:20:03.321610+00:00",
+      "last_error": "",
+      "output": "5a/黑龙江/伊春市_9c46f9c6"
+    },
+    "牡丹江市": {
+      "city_en": "Mudanjiang",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T07:21:59.103731+00:00",
+      "last_error": "",
+      "output": "5a/黑龙江/牡丹江市_1c84e72b"
+    },
+    "黑河市": {
+      "city_en": "Heihe",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:24:56.560136+00:00",
+      "last_error": "",
+      "output": "5a/黑龙江/黑河市_6dcb0748"
+    },
+    "哈尔滨市": {
+      "city_en": "Harbin",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:25:08.083403+00:00",
+      "last_error": "",
+      "output": "5a/黑龙江/哈尔滨市_ace11d65"
+    }
+  }
+}

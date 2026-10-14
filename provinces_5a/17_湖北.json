@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "province": "湖北",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p17-a01",
+      "name_zh": "黄冈市麻城龟峰山景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p17-a02",
+      "name_zh": "荆门市明显陵文化旅游景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p17-a03",
+      "name_zh": "宜昌市三峡大瀑布景区",
+      "rating_year": "2022",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p17-a04",
+      "name_zh": "恩施州腾龙洞景区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p17-a05",
+      "name_zh": "襄阳市古隆中景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p17-a06",
+      "name_zh": "咸宁市三国赤壁古战场景区",
+      "rating_year": "2018",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p17-a07",
+      "name_zh": "恩施州恩施大峡谷景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p17-a08",
+      "name_zh": "武汉市木兰文化生态旅游区",
+      "rating_year": "2014",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p17-a09",
+      "name_zh": "湖北省武汉市东湖景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p17-a10",
+      "name_zh": "宜昌市清江画廊景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p17-a11",
+      "name_zh": "神农架生态旅游区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p17-a12",
+      "name_zh": "恩施州神农溪纤夫文化旅游区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p17-a13",
+      "name_zh": "十堰市武当山风景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p17-a14",
+      "name_zh": "宜昌市三峡人家风景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p17-a15",
+      "name_zh": "宜昌市三峡大坝－屈原故里文化旅游区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p17-a16",
+      "name_zh": "武汉市黄鹤楼公园",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "黄冈市": {
+      "city_en": "Huanggang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:40:54.898959+00:00",
+      "last_error": "",
+      "output": "5a/湖北/黄冈市_af45ea78"
+    },
+    "荆门市": {
+      "city_en": "Jingmen",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:41:53.066210+00:00",
+      "last_error": "",
+      "output": "5a/湖北/荆门市_55f4a0d5"
+    },
+    "宜昌市": {
+      "city_en": "Yichang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:44:17.323091+00:00",
+      "last_error": "",
+      "output": "5a/湖北/宜昌市_e142313e"
+    },
+    "恩施州": {
+      "city_en": "Enshi Tujia and Miao Autonomous Prefecture",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:49:11.447727+00:00",
+      "last_error": "",
+      "output": "5a/湖北/恩施州_b5c46df7"
+    },
+    "襄阳市": {
+      "city_en": "Xiangyang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:50:18.343974+00:00",
+      "last_error": "",
+      "output": "5a/湖北/襄阳市_9ffdf82c"
+    },
+    "咸宁市": {
+      "city_en": "Xianning",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:51:28.300125+00:00",
+      "last_error": "",
+      "output": "5a/湖北/咸宁市_0fd8df69"
+    },
+    "武汉市": {
+      "city_en": "Wuhan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:56:49.263612+00:00",
+      "last_error": "",
+      "output": "5a/湖北/武汉市_8a8912a8"
+    },
+    "神农架林区": {
+      "city_en": "Shennongjia",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:57:01.666202+00:00",
+      "last_error": "",
+      "output": "5a/湖北/神农架林区_dfd9423a"
+    },
+    "十堰市": {
+      "city_en": "Shiyan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:59:59.965149+00:00",
+      "last_error": "",
+      "output": "5a/湖北/十堰市_161e3177"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "province": "新疆",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p31-a01",
+      "name_zh": "阿克苏地区天山托木尔景区",
+      "rating_year": "2024",
+      "status": "failed",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+      "last_error": "未找到名称与省份均可核对的公开景区介绍，保留待补资料状态。"
+    },
+    {
+      "id": "p31-a02",
+      "name_zh": "昌吉回族自治州江布拉克景区",
+      "rating_year": "2022",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p31-a03",
+      "name_zh": "博尔塔拉蒙古自治州赛里木湖景区",
+      "rating_year": "2021",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p31-a04",
+      "name_zh": "克拉玛依市世界魔鬼城景区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p31-a05",
+      "name_zh": "喀什地区帕米尔旅游区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p31-a06",
+      "name_zh": "巴音郭楞蒙古自治州巴音布鲁克景区",
+      "rating_year": "2016",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p31-a07",
+      "name_zh": "伊犁哈萨克自治州喀拉峻景区",
+      "rating_year": "2016",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p31-a08",
+      "name_zh": "喀什地区喀什古城景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p31-a09",
+      "name_zh": "巴音郭楞蒙古自治州博斯腾湖景区",
+      "rating_year": "2014",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p31-a10",
+      "name_zh": "乌鲁木齐市天山大峡谷",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p31-a11",
+      "name_zh": "喀什地区金湖杨景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p31-a12",
+      "name_zh": "阿勒泰地区可可托海景区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p31-a13",
+      "name_zh": "伊犁哈萨克自治州那拉提旅游风景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p31-a14",
+      "name_zh": "阿勒泰地区喀纳斯景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p31-a15",
+      "name_zh": "吐鲁番市葡萄沟风景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p31-a16",
+      "name_zh": "昌吉回族自治州天山天池风景名胜区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "province": "吉林",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p07-a01",
+      "name_zh": "白城市大安嫩江湾旅游区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p07-a02",
+      "name_zh": "松原市前郭查干湖景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p07-a03",
+      "name_zh": "通化市高句丽文物古迹旅游景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p07-a04",
+      "name_zh": "长春市世界雕塑公园景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p07-a05",
+      "name_zh": "延边州六鼎山文化旅游区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p07-a06",
+      "name_zh": "长春市长影世纪城景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p07-a07",
+      "name_zh": "长春市净月潭景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p07-a08",
+      "name_zh": "长春市伪满皇宫博物馆",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p07-a09",
+      "name_zh": "延边朝鲜族自治州长白山景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "白城市": {
+      "city_en": "Baicheng",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:08:13.177648+00:00",
+      "last_error": "",
+      "output": "5a/吉林/白城市_c3a5c7ca"
+    },
+    "松原市": {
+      "city_en": "松原市",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:09:31.411015+00:00",
+      "last_error": "",
+      "output": "5a/吉林/松原市_15c35bea"
+    },
+    "通化市": {
+      "city_en": "Tonghua",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:10:40.619215+00:00",
+      "last_error": "",
+      "output": "5a/吉林/通化市_7f2d3905"
+    },
+    "长春市": {
+      "city_en": "Changchun",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:14:43.300339+00:00",
+      "last_error": "",
+      "output": "5a/吉林/长春市_ac7e24da"
+    },
+    "延边州": {
+      "city_en": "Yanbian Korean Autonomous Prefecture",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:15:53.064869+00:00",
+      "last_error": "",
+      "output": "5a/吉林/延边州_0743b0a5"
+    }
+  }
+}

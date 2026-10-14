@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "province": "广西",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p20-a01",
+      "name_zh": "崇左市花山岩画景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p20-a02",
+      "name_zh": "柳州市程阳八寨景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p20-a03",
+      "name_zh": "贺州市黄姚古镇景区",
+      "rating_year": "2022",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p20-a04",
+      "name_zh": "北海市涠洲岛南湾鳄鱼山景区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p20-a05",
+      "name_zh": "百色市百色起义纪念园景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p20-a06",
+      "name_zh": "崇左市德天跨国瀑布景区",
+      "rating_year": "2018",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p20-a07",
+      "name_zh": "桂林市两江四湖•象山景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p20-a08",
+      "name_zh": "南宁市青秀山风景名胜旅游区",
+      "rating_year": "2014",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p20-a09",
+      "name_zh": "桂林市独秀峰•靖江王城景区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p20-a10",
+      "name_zh": "桂林市漓江风景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "崇左市": {
+      "city_en": "Chongzuo",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:25:21.505333+00:00",
+      "last_error": "",
+      "output": "5a/广西/崇左市_4ca16a8a"
+    },
+    "柳州市": {
+      "city_en": "Liuzhou",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "贺州市": {
+      "city_en": "Hezhou",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "北海市": {
+      "city_en": "Beihai",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:27:02.494671+00:00",
+      "last_error": "",
+      "output": "5a/广西/北海市_0edc9c9a"
+    },
+    "百色市": {
+      "city_en": "Baise",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "桂林市": {
+      "city_en": "Guilin",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:30:26.066363+00:00",
+      "last_error": "",
+      "output": "5a/广西/桂林市_57d6de21"
+    },
+    "南宁市": {
+      "city_en": "Nanning",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:31:25.168767+00:00",
+      "last_error": "",
+      "output": "5a/广西/南宁市_f36c75ba"
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "schema_version": 1,
+  "province": "山东",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p15-a01",
+      "name_zh": "淄博市周村古商城景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p15-a02",
+      "name_zh": "青岛市奥帆海洋文化旅游区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p15-a03",
+      "name_zh": "济宁市微山湖旅游区",
+      "rating_year": "2022",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p15-a04",
+      "name_zh": "临沂市萤火虫水洞•地下大峡谷旅游区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p15-a05",
+      "name_zh": "东营市黄河口生态旅游区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p15-a06",
+      "name_zh": "威海市威海华夏城景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p15-a07",
+      "name_zh": "潍坊市青州古城景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p15-a08",
+      "name_zh": "沂蒙山旅游区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p15-a09",
+      "name_zh": "济南市天下第一泉景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p15-a10",
+      "name_zh": "枣庄市台儿庄古城景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p15-a11",
+      "name_zh": "烟台市南山景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p15-a12",
+      "name_zh": "威海市刘公岛景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p15-a13",
+      "name_zh": "青岛市崂山景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p15-a14",
+      "name_zh": "济宁市明故城三孔旅游区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p15-a15",
+      "name_zh": "烟台市蓬莱阁-三仙山-八仙过海旅游区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p15-a16",
+      "name_zh": "泰安市泰山景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "淄博市": {
+      "city_en": "Zibo",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:07:56.749976+00:00",
+      "last_error": "",
+      "output": "5a/山东/淄博市_d4d238d1"
+    },
+    "青岛市": {
+      "status": "failed",
+      "last_error": "Local LLM did not finish; city remains unprocessed."
+    },
+    "济宁市": {
+      "city_en": "Jining",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:10:29.868942+00:00",
+      "last_error": "",
+      "output": "5a/山东/济宁市_8d7a4f02"
+    },
+    "临沂市": {
+      "city_en": "Linyi",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:12:27.876379+00:00",
+      "last_error": "",
+      "output": "5a/山东/临沂市_53e8a17a"
+    },
+    "东营市": {
+      "city_en": "Dongying",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T09:13:26.217330+00:00",
+      "last_error": "",
+      "output": "5a/山东/东营市_ef35ec38"
+    },
+    "威海市": {
+      "status": "failed",
+      "last_error": "Local LLM did not finish; city remains unprocessed."
+    },
+    "潍坊市": {
+      "city_en": "Weifang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:15:52.871992+00:00",
+      "last_error": "",
+      "output": "5a/山东/潍坊市_dc799fcb"
+    },
+    "济南市": {
+      "city_en": "Jinan",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T09:16:47.018762+00:00",
+      "last_error": "",
+      "output": "5a/山东/济南市_ccfb7d16"
+    },
+    "枣庄市": {
+      "city_en": "Zaozhuang",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T09:18:44.465657+00:00",
+      "last_error": "",
+      "output": "5a/山东/枣庄市_797c7dfc"
+    },
+    "烟台市": {
+      "city_en": "Yantai",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T09:21:49.940114+00:00",
+      "last_error": "",
+      "output": "5a/山东/烟台市_e124ddac"
+    },
+    "泰安市": {
+      "city_en": "Tai'an",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:22:59.224952+00:00",
+      "last_error": "",
+      "output": "5a/山东/泰安市_84e7da94"
+    }
+  }
+}

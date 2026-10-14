@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "province": "安徽",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p12-a01",
+      "name_zh": "滁州市琅琊山景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p12-a02",
+      "name_zh": "马鞍山市长江采石矶文化生态旅游区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p12-a03",
+      "name_zh": "六安市万佛湖风景区",
+      "rating_year": "2016",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p12-a04",
+      "name_zh": "芜湖市方特旅游区",
+      "rating_year": "2016",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p12-a05",
+      "name_zh": "合肥市三河古镇景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p12-a06",
+      "name_zh": "黄山市古徽州文化旅游区",
+      "rating_year": "2014",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p12-a07",
+      "name_zh": "阜阳市八里河风景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p12-a08",
+      "name_zh": "宣城市龙川景区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p12-a09",
+      "name_zh": "六安市天堂寨旅游景区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p12-a10",
+      "name_zh": "黄山市皖南古村落－西递宏村",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p12-a11",
+      "name_zh": "安庆市天柱山风景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p12-a12",
+      "name_zh": "池州市九华山风景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p12-a13",
+      "name_zh": "黄山市黄山风景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "滁州市": {
+      "city_en": "Chuzhou",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:18:51.279524+00:00",
+      "last_error": "",
+      "output": "5a/安徽/滁州市_c04a8034"
+    },
+    "马鞍山市": {
+      "city_en": "Ma'anshan",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "六安市": {
+      "city_en": "Lu'an",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:23:18.940116+00:00",
+      "last_error": "",
+      "output": "5a/安徽/六安市_68e9cebb"
+    },
+    "芜湖市": {
+      "city_en": "Wuhu",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:23:34.692754+00:00",
+      "last_error": "",
+      "output": "5a/安徽/芜湖市_876ba84d"
+    },
+    "合肥市": {
+      "city_en": "Hefei",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T08:25:00.147191+00:00",
+      "last_error": "",
+      "output": "5a/安徽/合肥市_907ea57d"
+    },
+    "黄山市": {
+      "city_en": "Huangshan City",
+      "status": "draft_partial_images",
+      "run_time": "2026-10-14T08:26:43.524219+00:00",
+      "last_error": "",
+      "output": "5a/安徽/黄山市_4b27ad71"
+    },
+    "阜阳市": {
+      "city_en": "Fuyang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:27:45.759735+00:00",
+      "last_error": "",
+      "output": "5a/安徽/阜阳市_068107c7"
+    },
+    "宣城市": {
+      "city_en": "Xuancheng",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "安庆市": {
+      "city_en": "Anqing",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:30:55.798700+00:00",
+      "last_error": "",
+      "output": "5a/安徽/安庆市_c1fa3b21"
+    },
+    "池州市": {
+      "city_en": "Chizhou",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:32:54.154370+00:00",
+      "last_error": "",
+      "output": "5a/安徽/池州市_fe664853"
+    }
+  }
+}

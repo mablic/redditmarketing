@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "province": "河北",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p03-a01",
+      "name_zh": "衡水市衡水湖旅游景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p03-a02",
+      "name_zh": "唐山市南湖·开滦旅游景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p03-a03",
+      "name_zh": "承德市金山岭长城景区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p03-a04",
+      "name_zh": "保定市清西陵景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p03-a05",
+      "name_zh": "秦皇岛市山海关景区",
+      "rating_year": "2007/2018",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p03-a06",
+      "name_zh": "保定市白石山景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p03-a07",
+      "name_zh": "邯郸市广府古城景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p03-a08",
+      "name_zh": "邯郸市娲皇宫景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p03-a09",
+      "name_zh": "唐山市清东陵景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p03-a10",
+      "name_zh": "石家庄市西柏坡景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p03-a11",
+      "name_zh": "保定市野三坡景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p03-a12",
+      "name_zh": "保定市白洋淀景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p03-a13",
+      "name_zh": "承德市承德避暑山庄及周围寺庙景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "衡水市": {
+      "city_en": "Hengshui",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:19:46.880060+00:00",
+      "last_error": "",
+      "output": "5a/河北/衡水市_ea3cb1ab"
+    },
+    "唐山市": {
+      "city_en": "Tangshan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:23:37.004485+00:00",
+      "last_error": "",
+      "output": "5a/河北/唐山市_80a32a9d"
+    },
+    "承德市": {
+      "city_en": "Chengde",
+      "status": "draft_partial_images",
+      "run_time": "2026-10-14T06:26:02.628231+00:00",
+      "last_error": "",
+      "output": "5a/河北/承德市_686f7a75"
+    },
+    "保定市": {
+      "city_en": "Baoding",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:35:16.655593+00:00",
+      "last_error": "",
+      "output": "5a/河北/保定市_23d79eee"
+    },
+    "秦皇岛市": {
+      "city_en": "Qinhuangdao",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:37:02.192738+00:00",
+      "last_error": "",
+      "output": "5a/河北/秦皇岛市_ba999bb9"
+    },
+    "邯郸市": {
+      "city_en": "Handan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:39:17.311282+00:00",
+      "last_error": "",
+      "output": "5a/河北/邯郸市_a00b13c1"
+    },
+    "石家庄市": {
+      "city_en": "Shijiazhuang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:42:08.511993+00:00",
+      "last_error": "",
+      "output": "5a/河北/石家庄市_dce9a980"
+    }
+  }
+}

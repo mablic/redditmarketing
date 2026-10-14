@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "province": "海南",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p21-a01",
+      "name_zh": "三亚市天涯海角游览区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p21-a02",
+      "name_zh": "三亚市蜈支洲岛旅游区",
+      "rating_year": "2016",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p21-a03",
+      "name_zh": "保亭县海南槟榔谷黎苗文化旅游区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p21-a04",
+      "name_zh": "陵水县分界洲岛旅游区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p21-a05",
+      "name_zh": "保亭县呀诺达雨林文化旅游区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p21-a06",
+      "name_zh": "三亚市南山大小洞天旅游区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p21-a07",
+      "name_zh": "三亚市南山文化旅游区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "三亚市": {
+      "city_en": "Sanya",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:33:36.439201+00:00",
+      "last_error": "",
+      "output": "5a/海南/三亚市_fa1d1cc8"
+    },
+    "保亭县": {
+      "status": "failed",
+      "last_error": "Local LLM did not finish; city remains unprocessed."
+    },
+    "陵水县": {
+      "city_en": "Lingshui Li Autonomous County",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:34:47.887380+00:00",
+      "last_error": "",
+      "output": "5a/海南/陵水县_335b2cc1"
+    }
+  }
+}

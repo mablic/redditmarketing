@@ -1,5 +1,45 @@
+# Secrets
 .env
+.env.*
+!.env.example
+
+# Python
 .venv/
+venv/
 __pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Node / Vite
+node_modules/
+dist/
+npm-debug.log*
+
+# Runtime output and local state
 drafts/
+data/
 work/
+city_posts/
+photo_trials/
+*.log
+*.pid
+*.lock
+!package-lock.json
+
+# Ultralytics / YOLO local files
+Ultralytics/
+datasets/
+runs/
+weights/
+*.pt
+
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store

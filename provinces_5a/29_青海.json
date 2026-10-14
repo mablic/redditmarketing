@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "province": "青海",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p29-a01",
+      "name_zh": "海北州阿咪东索景区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p29-a02",
+      "name_zh": "海东市互助土族故土园旅游区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p29-a03",
+      "name_zh": "西宁市塔尔寺景区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p29-a04",
+      "name_zh": "青海湖风景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "海北州": {
+      "city_en": "Haibei Tibetan Autonomous Prefecture",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:55:55.205150+00:00",
+      "last_error": "",
+      "output": "5a/青海/海北州_dc1314fb"
+    },
+    "海东市": {
+      "city_en": "Haidong",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:56:55.828543+00:00",
+      "last_error": "",
+      "output": "5a/青海/海东市_3c83a543"
+    },
+    "西宁市": {
+      "city_en": "Xining",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:57:12.021162+00:00",
+      "last_error": "",
+      "output": "5a/青海/西宁市_6c541c44"
+    },
+    "海南州": {
+      "city_en": "Hainan Tibetan Autonomous Prefecture",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:57:21.751661+00:00",
+      "last_error": "",
+      "output": "5a/青海/海南州_5ef98321"
+    }
+  }
+}

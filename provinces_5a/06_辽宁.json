@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "province": "辽宁",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p06-a01",
+      "name_zh": "本溪市五女山景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p06-a02",
+      "name_zh": "盘锦市红海滩风景廊道景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p06-a03",
+      "name_zh": "鞍山市千山景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p06-a04",
+      "name_zh": "本溪市本溪水洞景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p06-a05",
+      "name_zh": "大连市金石滩景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p06-a06",
+      "name_zh": "大连市老虎滩海洋公园—老虎滩极地馆",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p06-a07",
+      "name_zh": "沈阳市沈阳植物园",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "本溪市": {
+      "city_en": "Benxi",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:58:22.107214+00:00",
+      "last_error": "",
+      "output": "5a/辽宁/本溪市_afca5322"
+    },
+    "盘锦市": {
+      "city_en": "Panjin",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:59:59.658496+00:00",
+      "last_error": "",
+      "output": "5a/辽宁/盘锦市_1f827308"
+    },
+    "鞍山市": {
+      "city_en": "Anshan",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T07:02:55.014346+00:00",
+      "last_error": "",
+      "output": "5a/辽宁/鞍山市_511afa5c"
+    },
+    "大连市": {
+      "city_en": "Dalian",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "沈阳市": {
+      "city_en": "Shenyang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T07:06:56.352195+00:00",
+      "last_error": "",
+      "output": "5a/辽宁/沈阳市_6e960af0"
+    }
+  }
+}

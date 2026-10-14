@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "province": "山西",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p04-a01",
+      "name_zh": "晋中市乔家大院景区",
+      "rating_year": "2014/2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p04-a02",
+      "name_zh": "太原市晋祠天龙山景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p04-a03",
+      "name_zh": "黄河壶口瀑布旅游区(陕西省延安市·山西省临汾市)",
+      "rating_year": "2022",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p04-a04",
+      "name_zh": "临汾市云丘山景区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p04-a05",
+      "name_zh": "长治市太行山大峡谷八泉峡景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p04-a06",
+      "name_zh": "临汾市洪洞大槐树寻根祭祖园旅游景区",
+      "rating_year": "2018",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p04-a07",
+      "name_zh": "忻州市雁门关景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p04-a08",
+      "name_zh": "晋中市平遥古城景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p04-a09",
+      "name_zh": "晋中市绵山风景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p04-a10",
+      "name_zh": "晋城市皇城相府生态文化旅游区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p04-a11",
+      "name_zh": "忻州市五台山风景名胜区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p04-a12",
+      "name_zh": "大同市云冈石窟景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "晋中市": {
+      "city_en": "Jinzhong",
+      "status": "draft_partial_images",
+      "run_time": "2026-10-14T06:44:22.417870+00:00",
+      "last_error": "",
+      "output": "5a/山西/晋中市_f46f8ab6"
+    },
+    "太原市": {
+      "city_en": "Taiyuan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:45:43.610681+00:00",
+      "last_error": "",
+      "output": "5a/山西/太原市_676b795a"
+    },
+    "临汾市": {
+      "city_en": "Linfen",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:47:59.130197+00:00",
+      "last_error": "",
+      "output": "5a/山西/临汾市_4a5b6325"
+    },
+    "长治市": {
+      "city_en": "Changzhi",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:49:09.637755+00:00",
+      "last_error": "",
+      "output": "5a/山西/长治市_0d2f81a3"
+    },
+    "忻州市": {
+      "city_en": "Xinzhou",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:50:58.751154+00:00",
+      "last_error": "",
+      "output": "5a/山西/忻州市_b01a59dc"
+    },
+    "晋城市": {
+      "city_en": "Jincheng",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:51:55.581652+00:00",
+      "last_error": "",
+      "output": "5a/山西/晋城市_3c3a8679"
+    },
+    "大同市": {
+      "city_en": "Datong",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    }
+  }
+}

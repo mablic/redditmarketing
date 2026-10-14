@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "province": "河南",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p16-a01",
+      "name_zh": "新乡市宝泉旅游区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a02",
+      "name_zh": "周口市太昊伏羲陵文化旅游区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a03",
+      "name_zh": "信阳市鸡公山景区",
+      "rating_year": "2022",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a04",
+      "name_zh": "新乡市八里沟景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a05",
+      "name_zh": "商丘市芒砀山汉文化旅游景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a06",
+      "name_zh": "安阳市红旗渠－太行大峡谷旅游景区",
+      "rating_year": "2016",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a07",
+      "name_zh": "驻马店市嵖岈山旅游景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a08",
+      "name_zh": "南阳市西峡恐龙遗迹园-伏牛山-老界岭旅游区",
+      "rating_year": "2014",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a09",
+      "name_zh": "洛阳市龙潭大峡谷景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a10",
+      "name_zh": "洛阳市老君山－鸡冠洞旅游区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a11",
+      "name_zh": "平顶山市尧山－中原大佛景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a12",
+      "name_zh": "开封市清明上河园景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a13",
+      "name_zh": "洛阳市白云山景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a14",
+      "name_zh": "安阳市殷墟景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a15",
+      "name_zh": "焦作市云台山－神农山－青天河风景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a16",
+      "name_zh": "洛阳市龙门石窟景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p16-a17",
+      "name_zh": "郑州市嵩山少林景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "新乡市": {
+      "city_en": "Xinxiang",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T09:25:36.067292+00:00",
+      "last_error": "",
+      "output": "5a/河南/新乡市_a3eed0e6"
+    },
+    "周口市": {
+      "city_en": "Zhoukou",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "信阳市": {
+      "status": "failed",
+      "last_error": "Local LLM did not finish; city remains unprocessed."
+    },
+    "商丘市": {
+      "city_en": "Shangqiu",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:28:39.828745+00:00",
+      "last_error": "",
+      "output": "5a/河南/商丘市_13312db8"
+    },
+    "安阳市": {
+      "city_en": "Anyang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:29:15.122380+00:00",
+      "last_error": "",
+      "output": "5a/河南/安阳市_04278c9e"
+    },
+    "驻马店市": {
+      "city_en": "Zhumadian",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T09:31:43.567085+00:00",
+      "last_error": "",
+      "output": "5a/河南/驻马店市_81370981"
+    },
+    "南阳市": {
+      "status": "failed",
+      "last_error": "Local LLM did not finish; city remains unprocessed."
+    },
+    "洛阳市": {
+      "city_en": "Luoyang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:35:45.200926+00:00",
+      "last_error": "",
+      "output": "5a/河南/洛阳市_2d807cf1"
+    },
+    "平顶山市": {
+      "city_en": "Pingdingshan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:36:54.424307+00:00",
+      "last_error": "",
+      "output": "5a/河南/平顶山市_a7499621"
+    },
+    "开封市": {
+      "status": "failed",
+      "last_error": "Local LLM did not finish; city remains unprocessed."
+    },
+    "焦作市": {
+      "city_en": "Jiaozuo",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "郑州市": {
+      "city_en": "Zhengzhou",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:40:01.609976+00:00",
+      "last_error": "",
+      "output": "5a/河南/郑州市_4bb89728"
+    }
+  }
+}

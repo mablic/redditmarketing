@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "province": "兵团",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p32-a01",
+      "name_zh": "兵团阿拉尔市塔克拉玛干•三五九旅文化旅游区",
+      "rating_year": "2021",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p32-a02",
+      "name_zh": "兵团十师185团白沙湖景区（阿勒泰地区）",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ]
+}

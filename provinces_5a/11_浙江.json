@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "province": "浙江",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p11-a01",
+      "name_zh": "金华市双龙风景旅游区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a02",
+      "name_zh": "丽水市云和梯田景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a03",
+      "name_zh": "台州市台州府城文化旅游区",
+      "rating_year": "2022",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a04",
+      "name_zh": "温州市刘伯温故里景区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a05",
+      "name_zh": "丽水市缙云仙都景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a06",
+      "name_zh": "宁波市天一阁•月湖景区",
+      "rating_year": "2018",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a07",
+      "name_zh": "衢州市江郎山•廿八都旅游区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a08",
+      "name_zh": "嘉兴市西塘古镇旅游景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a09",
+      "name_zh": "台州市神仙居景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a10",
+      "name_zh": "台州市天台山景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a11",
+      "name_zh": "湖州市南浔古镇景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a12",
+      "name_zh": "衢州市根宫佛国文化旅游区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a13",
+      "name_zh": "绍兴市鲁迅故里•沈园景区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a14",
+      "name_zh": "杭州市西溪湿地旅游区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a15",
+      "name_zh": "嘉兴市南湖旅游区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a16",
+      "name_zh": "金华市横店影视城景区",
+      "rating_year": "2010",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a17",
+      "name_zh": "宁波市溪口－滕头旅游景区",
+      "rating_year": "2010",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a18",
+      "name_zh": "嘉兴市乌镇古镇旅游区",
+      "rating_year": "2010",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a19",
+      "name_zh": "杭州市千岛湖风景区",
+      "rating_year": "2010",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a20",
+      "name_zh": "舟山市普陀山风景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a21",
+      "name_zh": "温州市雁荡山风景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p11-a22",
+      "name_zh": "杭州市杭州西湖风景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "金华市": {
+      "status": "draft_ready",
+      "last_error": "",
+      "city_en": "Jinhua",
+      "run_time": "2026-10-14T05:33:59.010476+00:00",
+      "output": "5a/浙江/金华市_91def8ef"
+    },
+    "丽水市": {
+      "city_en": "Lishui",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:00:50.319216+00:00",
+      "last_error": "",
+      "output": "5a/浙江/丽水市_6b568417"
+    },
+    "台州市": {
+      "status": "failed",
+      "last_error": "Extra data: line 1 column 101 (char 100)"
+    },
+    "温州市": {
+      "city_en": "Wenzhou",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:05:08.318256+00:00",
+      "last_error": "",
+      "output": "5a/浙江/温州市_cca3168e"
+    },
+    "宁波市": {
+      "city_en": "Ningbo",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:07:31.354742+00:00",
+      "last_error": "",
+      "output": "5a/浙江/宁波市_033b69ee"
+    },
+    "衢州市": {
+      "city_en": "Quzhou",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:09:20.470064+00:00",
+      "last_error": "",
+      "output": "5a/浙江/衢州市_51ccf876"
+    },
+    "嘉兴市": {
+      "city_en": "Jiaxing",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:10:59.473519+00:00",
+      "last_error": "",
+      "output": "5a/浙江/嘉兴市_829e281d"
+    },
+    "湖州市": {
+      "status": "failed",
+      "last_error": "Local LLM did not finish; city remains unprocessed."
+    },
+    "绍兴市": {
+      "city_en": "Shaoxing",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:12:46.619118+00:00",
+      "last_error": "",
+      "output": "5a/浙江/绍兴市_09efdf2e"
+    },
+    "杭州市": {
+      "city_en": "Hangzhou",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:14:23.319098+00:00",
+      "last_error": "",
+      "output": "5a/浙江/杭州市_fd7ee59a"
+    },
+    "舟山市": {
+      "city_en": "Zhoushan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:16:58.204870+00:00",
+      "last_error": "",
+      "output": "5a/浙江/舟山市_4c0a8cc8"
+    }
+  }
+}

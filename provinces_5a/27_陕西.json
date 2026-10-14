@@ -1,0 +1,165 @@
+{
+  "schema_version": 1,
+  "province": "陕西",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p27-a01",
+      "name_zh": "咸阳市乾陵景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p27-a02",
+      "name_zh": "延安市延川黄河乾坤湾景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p27-a03",
+      "name_zh": "黄河壶口瀑布旅游区(陕西省延安市·山西省临汾市)",
+      "rating_year": "2022",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p27-a04",
+      "name_zh": "西安市大明宫旅游景区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p27-a05",
+      "name_zh": "延安市延安革命纪念地景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p27-a06",
+      "name_zh": "西安市城墙•碑林历史文化景区",
+      "rating_year": "2018",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p27-a07",
+      "name_zh": "宝鸡市太白山旅游景区",
+      "rating_year": "2016",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p27-a08",
+      "name_zh": "商洛市金丝峡景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p27-a09",
+      "name_zh": "宝鸡市法门文化景区",
+      "rating_year": "2014",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p27-a10",
+      "name_zh": "渭南市华山风景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p27-a11",
+      "name_zh": "西安市大雁塔－大唐芙蓉园景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p27-a12",
+      "name_zh": "延安市黄帝陵景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p27-a13",
+      "name_zh": "西安市华清宫景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p27-a14",
+      "name_zh": "西安市秦始皇帝陵博物院景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "咸阳市": {
+      "city_en": "Xianyang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:35:31.454522+00:00",
+      "last_error": "",
+      "output": "5a/陕西/咸阳市_fb7e81eb"
+    },
+    "延安市": {
+      "city_en": "Yan'an",
+      "status": "draft_partial_images",
+      "run_time": "2026-10-14T11:38:13.265516+00:00",
+      "last_error": "",
+      "output": "5a/陕西/延安市_82eae9be"
+    },
+    "西安市": {
+      "city_en": "Xi'an",
+      "status": "draft_partial_images",
+      "run_time": "2026-10-14T11:42:32.172960+00:00",
+      "last_error": "",
+      "output": "5a/陕西/西安市_8a632af6"
+    },
+    "宝鸡市": {
+      "city_en": "Baoji",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:45:47.011427+00:00",
+      "last_error": "",
+      "output": "5a/陕西/宝鸡市_6e1dfade"
+    },
+    "商洛市": {
+      "city_en": "Shangluo",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:46:40.809025+00:00",
+      "last_error": "",
+      "output": "5a/陕西/商洛市_d2b3d5d5"
+    },
+    "渭南市": {
+      "city_en": "Weinan",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T11:47:54.619315+00:00",
+      "last_error": "",
+      "output": "5a/陕西/渭南市_63b37df0"
+    }
+  }
+}

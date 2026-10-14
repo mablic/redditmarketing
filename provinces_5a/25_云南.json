@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "province": "云南",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p25-a01",
+      "name_zh": "腾冲市和顺古镇景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p25-a02",
+      "name_zh": "文山州普者黑旅游景区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p25-a03",
+      "name_zh": "保山市火山热海旅游区",
+      "rating_year": "2016",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p25-a04",
+      "name_zh": "昆明市昆明世博园景区",
+      "rating_year": "2016",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p25-a05",
+      "name_zh": "迪庆州普达措国家公园",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p25-a06",
+      "name_zh": "西双版纳州中科院西双版纳热带植物园",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p25-a07",
+      "name_zh": "大理州崇圣寺三塔文化旅游区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p25-a08",
+      "name_zh": "丽江市丽江古城景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p25-a09",
+      "name_zh": "丽江市玉龙雪山景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p25-a10",
+      "name_zh": "昆明市石林风景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "腾冲市": {
+      "city_en": "Tengchong",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "文山州": {
+      "city_en": "Wenshan Zhuang and Miao Autonomous Prefecture",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:23:53.830517+00:00",
+      "last_error": "",
+      "output": "5a/云南/文山州_3db8d13f"
+    },
+    "保山市": {
+      "city_en": "Baoshan, Yunnan",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T11:25:00.550222+00:00",
+      "last_error": "",
+      "output": "5a/云南/保山市_a8f0daf3"
+    },
+    "昆明市": {
+      "city_en": "Kunming",
+      "status": "draft_partial_images",
+      "run_time": "2026-10-14T11:29:09.724855+00:00",
+      "last_error": "",
+      "output": "5a/云南/昆明市_1306b34a"
+    },
+    "迪庆州": {
+      "city_en": "Diqing Tibetan Autonomous Prefecture",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:30:54.131333+00:00",
+      "last_error": "",
+      "output": "5a/云南/迪庆州_7a76ab37"
+    },
+    "西双版纳州": {
+      "city_en": "Xishuangbanna Dai Autonomous Prefecture",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "大理州": {
+      "city_en": "Dali Bai Autonomous Prefecture",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:31:14.404900+00:00",
+      "last_error": "",
+      "output": "5a/云南/大理州_5e95f827"
+    },
+    "丽江市": {
+      "city_en": "Lijiang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:32:17.259113+00:00",
+      "last_error": "",
+      "output": "5a/云南/丽江市_bc65369f"
+    }
+  }
+}

@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Generate copyable travel posts. Never accesses Reddit or publishes."""
 import argparse
-import hashlib
 import html
 import json
 import os
@@ -14,6 +13,8 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlparse
 import xml.etree.ElementTree as ET
 import uuid
+import sqlite3
+from storage import Storage, topic_hash
 
 ROOT = Path(__file__).resolve().parent
 PROMPT = '''You write original China travel discussion posts for international travelers.
@@ -137,7 +138,7 @@ def save(post, candidate, usage, out, demo=False):
                               ('short_post.txt', post['short_post']), ('video_script.txt', post['video_script'])]:
         (folder / filename).write_text(content + '\n', encoding='utf-8')
     record = {'created_at': datetime.now(timezone.utc).isoformat(), 'demo': demo,
-              'topic_hash': hashlib.sha256(candidate['topic'].strip().casefold().encode()).hexdigest(),
+              'draft_id': stamp, 'topic_hash': topic_hash(candidate['topic']),
               'material': candidate, 'post': post, 'usage': usage,
               'review_status': 'needs_review' if post['claims_to_verify'] or candidate.get('notes') else 'discussion_draft'}
     (folder / 'post.json').write_text(json.dumps(record, ensure_ascii=False, indent=2), encoding='utf-8')
@@ -146,7 +147,42 @@ def save(post, candidate, usage, out, demo=False):
     return folder
 
 
+def history_command(argv):
+    parser = argparse.ArgumentParser(description='Manage local draft history; no platform access.')
+    parser.add_argument('--db', type=Path, default=ROOT / 'data' / 'drafts.sqlite3')
+    commands = parser.add_subparsers(dest='command', required=True)
+    listing = commands.add_parser('list-drafts')
+    listing.add_argument('--status', choices=['draft', 'published'])
+    listing.add_argument('--limit', type=int, default=20)
+    marking = commands.add_parser('mark-published')
+    marking.add_argument('draft_id')
+    marking.add_argument('post_url', nargs='?')
+    # Accept --db after the command as well as before it.
+    for command in (listing, marking):
+        command.add_argument('--db', type=Path, default=argparse.SUPPRESS)
+    args = parser.parse_args(argv)
+    if args.command == 'list-drafts' and args.limit < 1:
+        parser.error('--limit must be positive.')
+    storage = Storage(args.db)
+    try:
+        if args.command == 'mark-published':
+            storage.mark_published(args.draft_id, args.post_url)
+            print(f'已标记发布：{args.draft_id}')
+        else:
+            rows = storage.list(args.status, args.limit)
+            for row in rows:
+                print(f"{row['id']} | {row['status']}{' | DEMO' if row['demo'] else ''} | {row['topic']}\n  {row['folder']}")
+                if row['published_at']:
+                    print(f"  Published: {row['published_at']} | {row['post_url'] or '(no URL)'}")
+            if not rows:
+                print('暂无草稿记录。')
+    finally:
+        storage.close()
+
+
 def main():
+    if any(arg in ('list-drafts', 'mark-published') for arg in sys.argv[1:2]):
+        return history_command(sys.argv[1:])
     parser = argparse.ArgumentParser(description=__doc__)
     group = parser.add_mutually_exclusive_group()
     group.add_argument('--topic', help='Your own discussion topic')
@@ -157,7 +193,12 @@ def main():
     parser.add_argument('--source-url', default='', help='Attribution only; page is not fetched')
     parser.add_argument('--language', choices=['en', 'zh'], default='en')
     parser.add_argument('--out', type=Path, default=ROOT / 'drafts')
+    parser.add_argument('--db', type=Path, default=ROOT / 'data' / 'drafts.sqlite3')
+    parser.add_argument('--dedupe-days', type=int, default=30)
+    parser.add_argument('--allow-duplicate', action='store_true')
     args = parser.parse_args()
+    if args.dedupe_days < 1:
+        parser.error('--dedupe-days must be positive.')
     load_env(ROOT / '.env')
     if args.source_url and urlparse(args.source_url).scheme not in ('http', 'https'):
         parser.error('--source-url must use HTTP(S).')
@@ -195,16 +236,28 @@ def main():
             candidate['notes'] = notes
         if args.source_url:
             candidate['source_url'] = args.source_url
-        post, usage = generate(candidate, args.language)
-    folder = save(validate(post), candidate, usage, args.out, args.demo)
+    storage = Storage(args.db)
+    try:
+        with storage.generation(candidate, args.dedupe_days, args.allow_duplicate, args.demo):
+            if not args.demo:
+                post, usage = generate(candidate, args.language)
+            folder = save(validate(post), candidate, usage, args.out, args.demo)
+            record = json.loads((folder / 'post.json').read_text(encoding='utf-8'))
+            storage.add(folder, record)
+    finally:
+        storage.close()
     print(f"\n{post['title']}\n\n{post['body']}\n\n草稿已保存：{folder}\n复制 title.txt 和 body.txt 即可。视频只生成脚本。")
     if post['claims_to_verify']:
         print('存在待核实内容，请查看 preview.md。')
 
 
 if __name__ == '__main__':
+    # Windows redirected terminals may default to a non-Chinese encoding.
+    for stream in (sys.stdout, sys.stderr):
+        if hasattr(stream, 'reconfigure'):
+            stream.reconfigure(encoding='utf-8')
     try:
         main()
-    except (ValueError, OSError, URLError, ET.ParseError, KeyError, IndexError, TypeError) as error:
+    except (ValueError, OSError, URLError, ET.ParseError, KeyError, IndexError, TypeError, sqlite3.Error) as error:
         print(f'生成失败：{error}', file=sys.stderr)
         sys.exit(1)

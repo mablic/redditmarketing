@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "province": "江西",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p14-a01",
+      "name_zh": "上饶市篁岭景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p14-a02",
+      "name_zh": "赣州市三百山景区",
+      "rating_year": "2022",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p14-a03",
+      "name_zh": "九江市永修县庐山西海景区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p14-a04",
+      "name_zh": "萍乡市芦溪县萍乡武功山景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p14-a05",
+      "name_zh": "南昌市东湖区滕王阁旅游区",
+      "rating_year": "2018",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p14-a06",
+      "name_zh": "上饶市弋阳县龟峰景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p14-a07",
+      "name_zh": "抚州市资溪县大觉山景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p14-a08",
+      "name_zh": "宜春市袁州区明月山旅游区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p14-a09",
+      "name_zh": "赣州市瑞金市共和国摇篮景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p14-a10",
+      "name_zh": "景德镇市昌江区古窑民俗博览区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p14-a11",
+      "name_zh": "上饶市婺源县江湾景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p14-a12",
+      "name_zh": "鹰潭市贵溪市龙虎山风景名胜区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p14-a13",
+      "name_zh": "上饶市玉山县三清山风景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p14-a14",
+      "name_zh": "吉安市井冈山市井冈山风景旅游区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p14-a15",
+      "name_zh": "九江市庐山市庐山风景名胜区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "上饶市": {
+      "city_en": "Shangrao",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:56:48.744032+00:00",
+      "last_error": "",
+      "output": "5a/江西/上饶市_e80d96d9"
+    },
+    "赣州市": {
+      "city_en": "Ganzhou",
+      "status": "draft_partial_images",
+      "run_time": "2026-10-14T08:58:01.558849+00:00",
+      "last_error": "",
+      "output": "5a/江西/赣州市_84a9d30f"
+    },
+    "九江市": {
+      "city_en": "Jiujiang",
+      "status": "draft_partial_images",
+      "run_time": "2026-10-14T09:01:01.484837+00:00",
+      "last_error": "",
+      "output": "5a/江西/九江市_01236978"
+    },
+    "萍乡市": {
+      "city_en": "Pingxiang",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T09:01:36.450534+00:00",
+      "last_error": "",
+      "output": "5a/江西/萍乡市_a45248c4"
+    },
+    "南昌市": {
+      "city_en": "Nanchang",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T09:02:48.601490+00:00",
+      "last_error": "",
+      "output": "5a/江西/南昌市_c1c0a535"
+    },
+    "抚州市": {
+      "city_en": "Fuzhou, Jiangxi",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T09:03:28.400085+00:00",
+      "last_error": "",
+      "output": "5a/江西/抚州市_d3162dae"
+    },
+    "宜春市": {
+      "city_en": "Yichun, Jiangxi",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T09:04:30.530125+00:00",
+      "last_error": "",
+      "output": "5a/江西/宜春市_dfb91534"
+    },
+    "景德镇市": {
+      "city_en": "Jingdezhen",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:05:23.838588+00:00",
+      "last_error": "",
+      "output": "5a/江西/景德镇市_b8d4c29f"
+    },
+    "鹰潭市": {
+      "city_en": "Yingtan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:05:38.959934+00:00",
+      "last_error": "",
+      "output": "5a/江西/鹰潭市_aaeac94a"
+    },
+    "吉安市": {
+      "city_en": "Ji'an",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T09:07:02.519211+00:00",
+      "last_error": "",
+      "output": "5a/江西/吉安市_70da7551"
+    }
+  }
+}

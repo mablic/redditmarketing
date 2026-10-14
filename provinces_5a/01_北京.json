@@ -1,0 +1,213 @@
+{
+  "schema_version": 1,
+  "province": "北京",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "notes": [
+    "八达岭与慕田峪按部级目录合为一条；北京市按管理单位另有10家统计口径。",
+    "圆明园目录评定年份2019与详情页2020存在差异，帖子不输出该评定年份。"
+  ],
+  "attractions": [
+    {
+      "id": "p01-a01",
+      "name_zh": "北京（通州）大运河文化旅游景区",
+      "rating_year": "2024",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T04:55:34.330856+00:00",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+      "name_en": "Tongzhou Grand Canal Cultural Tourism Area",
+      "district_en": "Tongzhou District",
+      "photo_query": "Randeng Pagoda",
+      "facts_en": "The area follows Beijing's Grand Canal and includes canal parks and a group of historic religious buildings.",
+      "facts_source_url": "https://sjfw.mct.gov.cn/site/dataservice/base",
+      "photo_match_status": "human_review_required",
+      "last_error": "Local LLM did not finish; city remains unprocessed.",
+      "output": "5a/北京/p01-a01_ae432667",
+      "photo_subject_keywords": [
+        "randeng",
+        "燃灯",
+        "三庙一塔"
+      ]
+    },
+    {
+      "id": "p01-a02",
+      "name_zh": "圆明园遗址公园景区",
+      "rating_year": "2019",
+      "rating_year_disputed": true,
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T04:56:02.773390+00:00",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+      "name_en": "Old Summer Palace (Yuanmingyuan)",
+      "district_en": "Haidian District",
+      "photo_query": "Yuanmingyuan",
+      "facts_en": "This former imperial garden includes the Western-style palace ruins and the Dashuifa fountain ruins.",
+      "facts_source_url": "https://sjfw.mct.gov.cn/site/dataservice/base",
+      "photo_match_status": "human_review_required",
+      "last_error": "Local LLM did not finish; city remains unprocessed.",
+      "output": "5a/北京/p01-a02_91b54fc4",
+      "photo_subject_keywords": [
+        "yuanmingyuan",
+        "圆明园",
+        "old summer palace"
+      ]
+    },
+    {
+      "id": "p01-a03",
+      "name_zh": "北京奥林匹克公园",
+      "rating_year": "2012",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T05:03:03.039077+00:00",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+      "name_en": "Beijing Olympic Park",
+      "district_en": "Chaoyang District",
+      "photo_query": "Beijing National Stadium",
+      "facts_en": "Olympic Park brings together Olympic venues and the Olympic Forest Park at the northern end of Beijing's central axis.",
+      "facts_source_url": "https://sjfw.mct.gov.cn/site/dataservice/base",
+      "photo_match_status": "human_review_required",
+      "output": "5a/北京/p01-a03_f8280dbe",
+      "last_error": "Local LLM did not finish; city remains unprocessed.",
+      "photo_subject_keywords": [
+        "olympic",
+        "bird's nest",
+        "birds nest",
+        "national stadium",
+        "鸟巢"
+      ]
+    },
+    {
+      "id": "p01-a04",
+      "name_zh": "恭王府景区",
+      "rating_year": "2012",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T04:57:02.486776+00:00",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+      "name_en": "Prince Gong's Mansion",
+      "district_en": "Xicheng District",
+      "photo_query": "Prince Gong",
+      "facts_en": "This Qing-era princely residence combines a mansion with a garden, including courtyards, a theatre and a decorative gate.",
+      "facts_source_url": "https://sjfw.mct.gov.cn/site/dataservice/base",
+      "photo_match_status": "human_review_required",
+      "last_error": "Local LLM did not finish; city remains unprocessed.",
+      "output": "5a/北京/p01-a04_60479794",
+      "photo_subject_keywords": [
+        "prince gong",
+        "恭王府",
+        "gongwangfu"
+      ]
+    },
+    {
+      "id": "p01-a05",
+      "name_zh": "明十三陵景区",
+      "rating_year": "2011",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T04:58:01.848045+00:00",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+      "name_en": "Ming Tombs",
+      "district_en": "Changping District",
+      "photo_query": "Ming Tombs",
+      "facts_en": "The scenic area includes imperial tomb complexes and the Sacred Way, with stone gateways and historic monuments.",
+      "facts_source_url": "https://sjfw.mct.gov.cn/site/dataservice/base",
+      "photo_match_status": "human_review_required",
+      "last_error": "Local LLM did not finish; city remains unprocessed.",
+      "output": "5a/北京/p01-a05_71b79aa0",
+      "photo_subject_keywords": [
+        "ming tomb",
+        "十三陵",
+        "sacred way",
+        "dingling",
+        "changling"
+      ]
+    },
+    {
+      "id": "p01-a06",
+      "name_zh": "八达岭—慕田峪长城旅游区",
+      "rating_year": "2007",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T04:59:01.908410+00:00",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+      "name_en": "Badaling–Mutianyu Great Wall Tourism Area",
+      "district_en": "Yanqing and Huairou Districts",
+      "photo_query": "Mutianyu",
+      "facts_en": "The Mutianyu section of the Great Wall has closely spaced watchtowers and battlements on both sides.",
+      "facts_source_url": "https://sjfw.mct.gov.cn/site/dataservice/base",
+      "photo_match_status": "human_review_required",
+      "output": "5a/北京/p01-a06_87d88a49",
+      "photo_subject_keywords": [
+        "mutianyu",
+        "badaling",
+        "慕田峪",
+        "八达岭",
+        "great wall of china july 2006"
+      ]
+    },
+    {
+      "id": "p01-a07",
+      "name_zh": "颐和园",
+      "rating_year": "2007",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T05:00:01.949067+00:00",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+      "name_en": "Summer Palace",
+      "district_en": "Haidian District",
+      "photo_query": "Summer Palace Beijing",
+      "facts_en": "The Summer Palace's principal landscape combines Longevity Hill and Kunming Lake, with the Seventeen-Arch Bridge among its landmarks.",
+      "facts_source_url": "https://sjfw.mct.gov.cn/site/dataservice/base",
+      "photo_match_status": "human_review_required",
+      "output": "5a/北京/p01-a07_b8238c77",
+      "photo_subject_keywords": [
+        "summer palace",
+        "颐和园"
+      ]
+    },
+    {
+      "id": "p01-a08",
+      "name_zh": "天坛公园",
+      "rating_year": "2007",
+      "status": "draft_without_images",
+      "run_time": "2026-10-14T05:01:00.437970+00:00",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+      "name_en": "Temple of Heaven",
+      "district_en": "Dongcheng District",
+      "photo_query": "Temple of Heaven",
+      "facts_en": "This former imperial ceremonial complex includes the Hall of Prayer for Good Harvests and the Circular Mound Altar.",
+      "facts_source_url": "https://sjfw.mct.gov.cn/site/dataservice/base",
+      "photo_match_status": "human_review_required",
+      "output": "5a/北京/p01-a08_36106999",
+      "photo_subject_keywords": [
+        "temple of heaven",
+        "祈年殿",
+        "天坛"
+      ]
+    },
+    {
+      "id": "p01-a09",
+      "name_zh": "故宫博物院",
+      "rating_year": "2007",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T05:02:00.625803+00:00",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+      "name_en": "Palace Museum (Forbidden City)",
+      "district_en": "Dongcheng District",
+      "photo_query": "Forbidden City",
+      "facts_en": "The Palace Museum presents former imperial palace architecture, historic court settings and museum exhibitions.",
+      "facts_source_url": "https://sjfw.mct.gov.cn/site/dataservice/base",
+      "photo_match_status": "human_review_required",
+      "output": "5a/北京/p01-a09_ea459d22",
+      "photo_subject_keywords": [
+        "forbidden city",
+        "palace museum",
+        "故宫"
+      ]
+    }
+  ],
+  "city_runs": {
+    "北京": {
+      "city_en": "Beijing",
+      "status": "draft_partial_images",
+      "last_error": "",
+      "run_time": "2026-10-14T06:15:18.270365+00:00",
+      "output": "5a/北京/北京_b00aa31f"
+    }
+  }
+}

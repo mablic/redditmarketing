@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "province": "贵州",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p24-a01",
+      "name_zh": "黔西南州万峰林景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p24-a02",
+      "name_zh": "毕节市织金洞景区",
+      "rating_year": "2022",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p24-a03",
+      "name_zh": "遵义市赤水市赤水丹霞旅游区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p24-a04",
+      "name_zh": "黔东南州镇远县镇远古城旅游景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p24-a05",
+      "name_zh": "铜仁市江口县梵净山旅游区",
+      "rating_year": "2018",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p24-a06",
+      "name_zh": "贵阳市花溪区青岩古镇景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p24-a07",
+      "name_zh": "黔南布依族苗族自治州荔波县樟江景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p24-a08",
+      "name_zh": "毕节市黔西县百里杜鹃景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p24-a09",
+      "name_zh": "安顺市西秀区龙宫景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p24-a10",
+      "name_zh": "安顺市黄果树瀑布景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "黔西南州": {
+      "city_en": "Qianxinan Buyei and Miao Autonomous Prefecture",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:08:00.015016+00:00",
+      "last_error": "",
+      "output": "5a/贵州/黔西南州_dc5880fb"
+    },
+    "毕节市": {
+      "city_en": "Bijie",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:11:24.941705+00:00",
+      "last_error": "",
+      "output": "5a/贵州/毕节市_4f55709a"
+    },
+    "遵义市": {
+      "city_en": "Zunyi",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:11:41.203435+00:00",
+      "last_error": "",
+      "output": "5a/贵州/遵义市_f5ac1a9b"
+    },
+    "黔东南州": {
+      "city_en": "Qiandongnan Miao and Dong Autonomous Prefecture",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:12:59.517920+00:00",
+      "last_error": "",
+      "output": "5a/贵州/黔东南州_afb6b57e"
+    },
+    "铜仁市": {
+      "city_en": "Tongren",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:13:57.295801+00:00",
+      "last_error": "",
+      "output": "5a/贵州/铜仁市_049f6609"
+    },
+    "贵阳市": {
+      "city_en": "Guiyang",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "黔南布依族苗族自治州": {
+      "city_en": "Qiannan Buyei and Miao Autonomous Prefecture",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "安顺市": {
+      "city_en": "Anshun",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:20:08.442514+00:00",
+      "last_error": "",
+      "output": "5a/贵州/安顺市_814cd84d"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+# Browser/source pipeline (ComfyUI has its own independent Torch environment).
+playwright>=1.50,<2
+Pillow>=10,<13
+beautifulsoup4>=4.12,<5
+pypinyin>=0.55,<1

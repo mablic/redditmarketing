@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "province": "内蒙古",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p05-a01",
+      "name_zh": "呼和浩特市老牛湾黄河大峡谷旅游区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p05-a02",
+      "name_zh": "呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p05-a03",
+      "name_zh": "阿拉善盟胡杨林旅游区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p05-a04",
+      "name_zh": "赤峰市阿斯哈图石林景区",
+      "rating_year": "2018",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p05-a05",
+      "name_zh": "兴安盟阿尔山-柴河旅游景区",
+      "rating_year": "2017",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p05-a06",
+      "name_zh": "呼伦贝尔市中俄边境旅游区",
+      "rating_year": "2016",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p05-a07",
+      "name_zh": "鄂尔多斯市成吉思汗陵旅游区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p05-a08",
+      "name_zh": "鄂尔多斯市响沙湾旅游景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "呼和浩特市": {
+      "city_en": "Hohhot",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "呼伦贝尔市": {
+      "city_en": "Hulunbuir",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:54:34.334392+00:00",
+      "last_error": "",
+      "output": "5a/内蒙古/呼伦贝尔市_36bda217"
+    },
+    "阿拉善盟": {
+      "city_en": "Alxa League",
+      "status": "failed",
+      "last_error": "该城市的景区都没有找到可核对的公开资料，未生成帖子。"
+    },
+    "赤峰市": {
+      "city_en": "Chifeng",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:55:31.129383+00:00",
+      "last_error": "",
+      "output": "5a/内蒙古/赤峰市_0763e2bc"
+    },
+    "兴安盟": {
+      "city_en": "Hinggan League",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:56:57.785667+00:00",
+      "last_error": "",
+      "output": "5a/内蒙古/兴安盟_9bc00fd0"
+    },
+    "鄂尔多斯市": {
+      "city_en": "Ordos City",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:57:44.593652+00:00",
+      "last_error": "",
+      "output": "5a/内蒙古/鄂尔多斯市_3df5c171"
+    }
+  }
+}

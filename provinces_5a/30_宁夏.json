@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "province": "宁夏",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p30-a01",
+      "name_zh": "固原市六盘山红军长征旅游区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p30-a02",
+      "name_zh": "吴忠市青铜峡黄河大峡谷旅游区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p30-a03",
+      "name_zh": "银川市水洞沟旅游区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p30-a04",
+      "name_zh": "银川市宁夏镇北堡西部影视城",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p30-a05",
+      "name_zh": "中卫市沙坡头旅游景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p30-a06",
+      "name_zh": "石嘴山市沙湖旅游景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "固原市": {
+      "city_en": "Guyuan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:58:17.843318+00:00",
+      "last_error": "",
+      "output": "5a/宁夏/固原市_a47379dc"
+    },
+    "吴忠市": {
+      "city_en": "Wuzhong, Ningxia",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:58:30.529745+00:00",
+      "last_error": "",
+      "output": "5a/宁夏/吴忠市_e04fd629"
+    },
+    "银川市": {
+      "status": "failed",
+      "last_error": "Extra data: line 1 column 91 (char 90)"
+    },
+    "中卫市": {
+      "city_en": "Zhongwei",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:59:26.192392+00:00",
+      "last_error": "",
+      "output": "5a/宁夏/中卫市_d0029b3f"
+    }
+  }
+}

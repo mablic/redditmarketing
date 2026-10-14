@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "province": "湖南",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p18-a01",
+      "name_zh": "湘西州凤凰古城旅游区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p18-a02",
+      "name_zh": "湘西州吉首市矮寨·十八洞•德夯大峡谷景区",
+      "rating_year": "2021",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p18-a03",
+      "name_zh": "常德市桃花源旅游区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p18-a04",
+      "name_zh": "株洲市炎帝陵景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p18-a05",
+      "name_zh": "邵阳市崀山景区",
+      "rating_year": "2016",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p18-a06",
+      "name_zh": "郴州市东江湖旅游区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p18-a07",
+      "name_zh": "长沙市花明楼景区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p18-a08",
+      "name_zh": "长沙市岳麓山-橘子洲旅游区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p18-a09",
+      "name_zh": "岳阳市岳阳楼－君山岛景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p18-a10",
+      "name_zh": "湘潭市韶山旅游区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p18-a11",
+      "name_zh": "衡阳市衡山旅游区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p18-a12",
+      "name_zh": "张家界市武陵源－天门山旅游区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "湘西州": {
+      "status": "failed",
+      "last_error": "Expecting ',' delimiter: line 1 column 162 (char 161)"
+    },
+    "常德市": {
+      "city_en": "Changde",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:02:01.759298+00:00",
+      "last_error": "",
+      "output": "5a/湖南/常德市_5856acaa"
+    },
+    "株洲市": {
+      "city_en": "Zhuzhou",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:02:58.462233+00:00",
+      "last_error": "",
+      "output": "5a/湖南/株洲市_fc0af09f"
+    },
+    "邵阳市": {
+      "city_en": "Shaoyang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:05:48.837746+00:00",
+      "last_error": "",
+      "output": "5a/湖南/邵阳市_2f54ba37"
+    },
+    "郴州市": {
+      "status": "failed",
+      "last_error": "Local LLM did not finish; city remains unprocessed."
+    },
+    "长沙市": {
+      "city_en": "Changsha",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:08:19.342934+00:00",
+      "last_error": "",
+      "output": "5a/湖南/长沙市_a7b4c11d"
+    },
+    "岳阳市": {
+      "city_en": "Yueyang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:08:30.282381+00:00",
+      "last_error": "",
+      "output": "5a/湖南/岳阳市_f85fceb2"
+    },
+    "湘潭市": {
+      "city_en": "Xiangtan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:09:08.908081+00:00",
+      "last_error": "",
+      "output": "5a/湖南/湘潭市_e9be6478"
+    },
+    "衡阳市": {
+      "city_en": "Hengyang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:11:58.646542+00:00",
+      "last_error": "",
+      "output": "5a/湖南/衡阳市_86cab1d4"
+    },
+    "张家界市": {
+      "city_en": "Zhangjiajie",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T10:12:10.922156+00:00",
+      "last_error": "",
+      "output": "5a/湖南/张家界市_e460c2c8"
+    }
+  }
+}

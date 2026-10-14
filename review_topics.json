@@ -1,0 +1,33 @@
+{
+  "researched_on": "2026-10-12",
+  "language": "en",
+  "topics": [
+    {
+      "slug": "shanghai",
+      "label": "SHANGHAI / AFTER DARK",
+      "topic": "Shanghai after dark: skyline walk, food stop, or cultural evening?",
+      "notes": "Shanghai's municipal English website published a National Day tourism recap on October 8, 2026. It describes nighttime attractions, light displays, cultural activities and dining. Use this only as context for an original preference-based discussion about an evening in Shanghai. Do not present past holiday events as still running. Do not include statistics, event dates, opening hours or prices. Ask what viewers would choose: a waterfront skyline walk, a food stop, or a cultural evening. Do not invent first-person experiences.",
+      "source_url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20261008/ca83c8584d72441ba8324f262a126df7.html",
+      "source_date": "2026-10-08",
+      "signal": "近期官方报道；不是实时社交热度排名。"
+    },
+    {
+      "slug": "chongqing",
+      "label": "CHONGQING / BEYOND THE SKYLINE",
+      "topic": "Chongqing: is the dramatic cityscape enough to choose a destination?",
+      "notes": "CNA published an original report on February 12, 2026 about Chongqing's tourism appeal and its cyberpunk image in short videos. This is older reporting, not evidence of today's trend ranking. Write a discussion about choosing a city for its dramatic landscape versus everyday neighborhood life and food. Avoid popularity numbers, exact routes, transport directions or claims about current events. The video illustration is an imagined artistic composite, not real footage. Do not invent experiences or claim the creator visited.",
+      "source_url": "https://www.channelnewsasia.com/east-asia/cyberpunk-chongqing-china-tourism-hotspot-5926216",
+      "source_date": "2026-02-12",
+      "signal": "今年专题报道支持视觉话题吸引力；不代表本周热搜。"
+    },
+    {
+      "slug": "citywalk",
+      "label": "CITYWALK / TAKE IT SLOW",
+      "topic": "China CityWalk: would you leave half a day without a sightseeing checklist?",
+      "notes": "Mintel has an article updated February 4, 2026 discussing CityWalk and fast-paced sightseeing. The underlying examples and metrics refer partly to older years, including 2022 and 2023; do not repeat those metrics or call them current. Use the broad concept of slow neighborhood exploration as inspiration for an original discussion. Ask whether people would leave an unplanned half-day for walking, a cafe pause, architecture or browsing small shops. Avoid asserting current trend rank, season conditions, a real walking route, or personal experience.",
+      "source_url": "https://www.mintel.com/insights/travel-and-tourism/emerging-travel-trends-among-chinas-gen-z-citywalk-to-trooper-style-travel/",
+      "source_date": "2026-02-04 (page updated; underlying examples are older)",
+      "signal": "持续性旅行风格；页面更新日期不等于数据年份。"
+    }
+  ]
+}

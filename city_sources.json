@@ -1,0 +1,126 @@
+{
+  "建水": {
+    "ctrip_urls": [
+      "https://gs.ctrip.com/html5/you/travels/100007/4080209.html"
+    ],
+    "official_urls": [
+      "https://www.hhjs.gov.cn/info/55221/302181.htm"
+    ],
+    "attractions": [
+      {
+        "name_zh": "朱家花园",
+        "name_en": "Zhu Family Garden",
+        "facts_en": "A historic private garden and residential complex with courtyards in Jianshui.",
+        "commons_file": "File:China Jianshui - Zhu garden.jpg"
+      },
+      {
+        "name_zh": "建水文庙",
+        "name_en": "Jianshui Confucian Temple",
+        "facts_en": "A Confucian temple complex in Jianshui, with traditional buildings and grounds.",
+        "commons_file": "File:Confucius Temple Jianshui Confucian Temple.jpg"
+      },
+      {
+        "name_zh": "双龙桥",
+        "name_en": "Double Dragon Bridge",
+        "facts_en": "A historic stone arch bridge near Jianshui, with pavilions above the bridge.",
+        "commons_file": "File:Jianshui - Double Dragon Bridge - P1370287.JPG"
+      },
+      {
+        "name_zh": "团山古村",
+        "name_en": "Tuanshan Village",
+        "facts_en": "A village near Jianshui known for its preserved traditional residential buildings.",
+        "commons_file": "File:团山村 - 航拍 - 2025-05-04 01.jpg"
+      },
+      {
+        "name_zh": "朝阳楼",
+        "name_en": "Chaoyang Gate",
+        "commons_file": "File:2026-04-27 Jianshui Chaoyang Gate 建水朝阳门.jpg"
+      }
+    ]
+  },
+  "靖西": {
+    "ctrip_urls": [
+      "https://gs.ctrip.com/html5/you/travels/837/4120839.html"
+    ],
+    "official_urls": [
+      "https://zhuanti.mct.gov.cn/rxhmxjgn2022/beijing/detail_g7yU_506/3463.html"
+    ],
+    "attractions": [
+      {
+        "name_zh": "鹅泉",
+        "name_en": "Goose Spring",
+        "facts_en": "A spring surrounded by green hills, farmland and stone bridges.",
+        "commons_file": "File:鹅泉，靖西，广西 Guangxi 05-10-13 - panoramio.jpg"
+      },
+      {
+        "name_zh": "旧州",
+        "name_en": "Jiuzhou Old Town",
+        "facts_en": "An old town associated with traditional embroidered balls and Zhuang culture.",
+        "commons_file": "File:旧州 (7164677977).jpg"
+      },
+      {
+        "name_zh": "渠洋湖",
+        "name_en": "Quyang Lake",
+        "facts_en": "A lake surrounded by karst hills, islands and villages.",
+        "commons_file": "File:渠洋湖-岜蒙水库，靖西，广西 Guangxi 05-10-13 - panoramio.jpg"
+      },
+      {
+        "name_zh": "通灵大峡谷",
+        "name_en": "Tongling Grand Canyon",
+        "facts_en": "A forested canyon with waterfalls and caves.",
+        "commons_file": "File:TongLing 01.jpg"
+      }
+    ]
+  },
+  "松阳": {
+    "ctrip_urls": [
+      "https://gs.ctrip.com/html5/you/travels/2250/3985974.html",
+      "https://gs.ctrip.com/html5/you/travels/2248/4150765.html"
+    ],
+    "official_urls": [
+      "https://zhuanti.mct.gov.cn/csxz2022/zhejiang/detail/1645.html",
+      "https://www.hzzx.gov.cn/cshz/content/2025-11/24/content_9130256_0.htm",
+      "https://www.zjskw.gov.cn/art/2023/11/19/art_1229556974_55739.html"
+    ],
+    "attractions": [
+      {
+        "name_zh": "杨家堂村",
+        "name_en": "Yangjiatang Village",
+        "facts_en": "A traditional village with houses arranged along a hillside.",
+        "commons_file": "File:Yangjiatang Village, Songyang County-2024-001.jpg"
+      },
+      {
+        "name_zh": "黄家大院",
+        "name_en": "Huang Family Courtyard",
+        "facts_en": "A traditional residential compound with courtyards and decorative wood carving.",
+        "commons_file": "File:松阳黄家大院 - panoramio.jpg"
+      },
+      {
+        "name_zh": "延庆寺塔",
+        "name_en": "Yanqing Temple Pagoda",
+        "facts_en": "A historic brick pagoda in Songyang.",
+        "commons_file": "File:Pagoda of Yanqing Temple, 2022-09-30 02.jpg"
+      },
+      {
+        "name_zh": "界首村",
+        "name_en": "Jieshou Village",
+        "facts_en": "A traditional village with old houses and a museum about restoring historic homes.",
+        "commons_file": "File:The Memorial Temple for the Family of Liu in Jieshou Village 10 2016-12.jpg"
+      }
+    ],
+    "foods": [
+      {
+        "name_zh": "松阳香茶",
+        "name_en": "Songyang tea",
+        "description_en": "A local tea listed among Songyang products in the official travel route.",
+        "source_url": "https://zhuanti.mct.gov.cn/csxz2022/zhejiang/detail/1645.html"
+      },
+      {
+        "name_zh": "煨盐鸡",
+        "name_en": "Salt-cooked chicken (Wei Yan Ji)",
+        "description_en": "A chicken dish associated with Songyang in a Zhejiang government report.",
+        "source_url": "https://zjic.zj.gov.cn/ywdh/cyfz/202603/t20260302_23968378.shtml"
+      }
+    ]
+  }
+}

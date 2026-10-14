@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "province": "天津",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p02-a01",
+      "name_zh": "盘山风景名胜区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p02-a02",
+      "name_zh": "天津古文化街旅游区（津门故里）",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "天津": {
+      "city_en": "Tianjin",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T06:18:43.464906+00:00",
+      "last_error": "",
+      "output": "5a/天津/天津_ae24c213"
+    }
+  }
+}

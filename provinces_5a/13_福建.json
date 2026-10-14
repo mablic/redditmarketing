@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "province": "福建",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p13-a01",
+      "name_zh": "龙岩市冠豸山景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p13-a02",
+      "name_zh": "厦门市厦门园林植物园景区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p13-a03",
+      "name_zh": "莆田市湄洲岛妈祖文化旅游区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p13-a04",
+      "name_zh": "龙岩市古田旅游区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p13-a05",
+      "name_zh": "福州市三坊七巷景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p13-a06",
+      "name_zh": "宁德市太姥山旅游区",
+      "rating_year": "2013",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p13-a07",
+      "name_zh": "泉州市清源山风景名胜区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p13-a08",
+      "name_zh": "宁德市（白水洋•鸳鸯溪）旅游景区",
+      "rating_year": "2012",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p13-a09",
+      "name_zh": "福建土楼（永定•南靖）旅游景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p13-a10",
+      "name_zh": "三明市泰宁风景旅游区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p13-a11",
+      "name_zh": "南平市武夷山风景名胜区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p13-a12",
+      "name_zh": "厦门市鼓浪屿风景名胜区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "龙岩市": {
+      "city_en": "Longyan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:37:03.681736+00:00",
+      "last_error": "",
+      "output": "5a/福建/龙岩市_fa91e1a4"
+    },
+    "厦门市": {
+      "city_en": "Xiamen",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:41:23.996785+00:00",
+      "last_error": "",
+      "output": "5a/福建/厦门市_9b637fe0"
+    },
+    "莆田市": {
+      "city_en": "Putian",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:42:54.538458+00:00",
+      "last_error": "",
+      "output": "5a/福建/莆田市_4880a2e8"
+    },
+    "福州市": {
+      "city_en": "Fuzhou",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:45:03.725617+00:00",
+      "last_error": "",
+      "output": "5a/福建/福州市_8deb07e3"
+    },
+    "宁德市": {
+      "city_en": "Ningde",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:49:32.663931+00:00",
+      "last_error": "",
+      "output": "5a/福建/宁德市_d4ae015f"
+    },
+    "泉州市": {
+      "city_en": "Quanzhou",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:50:53.485703+00:00",
+      "last_error": "",
+      "output": "5a/福建/泉州市_cff699b6"
+    },
+    "三明市": {
+      "city_en": "Sanming",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:52:06.048338+00:00",
+      "last_error": "",
+      "output": "5a/福建/三明市_0b6d32f6"
+    },
+    "南平市": {
+      "city_en": "Nanping",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T08:53:03.720254+00:00",
+      "last_error": "",
+      "output": "5a/福建/南平市_13ed5369"
+    }
+  }
+}

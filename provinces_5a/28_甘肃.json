@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "province": "甘肃",
+  "source_as_of": "2025-03-11",
+  "verified_on": "2026-10-13",
+  "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10",
+  "attractions": [
+    {
+      "id": "p28-a01",
+      "name_zh": "甘南州冶力关旅游区",
+      "rating_year": "2024",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p28-a02",
+      "name_zh": "陇南市官鹅沟景区",
+      "rating_year": "2022",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p28-a03",
+      "name_zh": "临夏州炳灵寺世界文化遗产旅游区",
+      "rating_year": "2020",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p28-a04",
+      "name_zh": "张掖市七彩丹霞景区",
+      "rating_year": "2019",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p28-a05",
+      "name_zh": "酒泉市鸣沙山月牙泉景区",
+      "rating_year": "2015",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p28-a06",
+      "name_zh": "天水市麦积山景区",
+      "rating_year": "2011",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p28-a07",
+      "name_zh": "平凉市崆峒山风景名胜区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    },
+    {
+      "id": "p28-a08",
+      "name_zh": "嘉峪关市嘉峪关文物景区",
+      "rating_year": "2007",
+      "status": "pending",
+      "run_time": "",
+      "source_url": "https://sjfw.mct.gov.cn/site/dataservice/rural?type=10"
+    }
+  ],
+  "city_runs": {
+    "甘南州": {
+      "city_en": "Gannan Tibetan Autonomous Prefecture",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:48:56.654867+00:00",
+      "last_error": "",
+      "output": "5a/甘肃/甘南州_8329f190"
+    },
+    "陇南市": {
+      "city_en": "Longnan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:50:11.526185+00:00",
+      "last_error": "",
+      "output": "5a/甘肃/陇南市_7abfede0"
+    },
+    "临夏州": {
+      "city_en": "Linxia Hui Autonomous Prefecture",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:51:16.271524+00:00",
+      "last_error": "",
+      "output": "5a/甘肃/临夏州_6ed622ce"
+    },
+    "张掖市": {
+      "city_en": "Zhangye",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:52:21.636267+00:00",
+      "last_error": "",
+      "output": "5a/甘肃/张掖市_5a0775a9"
+    },
+    "酒泉市": {
+      "city_en": "Jiuquan",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:53:25.928921+00:00",
+      "last_error": "",
+      "output": "5a/甘肃/酒泉市_e626e6af"
+    },
+    "天水市": {
+      "city_en": "Tianshui",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:53:35.755280+00:00",
+      "last_error": "",
+      "output": "5a/甘肃/天水市_c1c6053f"
+    },
+    "平凉市": {
+      "city_en": "Pingliang",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:54:14.190834+00:00",
+      "last_error": "",
+      "output": "5a/甘肃/平凉市_4b69dc47"
+    },
+    "嘉峪关市": {
+      "city_en": "Jiayuguan City",
+      "status": "draft_ready",
+      "run_time": "2026-10-14T11:54:24.002076+00:00",
+      "last_error": "",
+      "output": "5a/甘肃/嘉峪关市_bc09dc84"
+    }
+  }
+}
